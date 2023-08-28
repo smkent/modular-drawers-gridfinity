@@ -1,0 +1,6 @@
+[submodule "Chamfers-for-OpenSCAD"]
+	path = third_party/Chamfers-for-OpenSCAD
+	url = https://github.com/SebiTimeWaster/Chamfers-for-OpenSCAD.git
+[submodule "gridfinity-rebuilt-openscad"]
+	path = third_party/gridfinity-rebuilt-openscad
+	url = https://github.com/kennetek/gridfinity-rebuilt-openscad
